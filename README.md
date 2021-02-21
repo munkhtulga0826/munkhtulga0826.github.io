@@ -5,6 +5,10 @@
 </head>
 <body>
     <h1><strong>Миний тухай</h1> 
-    <p><a href="https://munkhtulga0826.github.io/tuka-is-page/"><em>Дараагийн хуудас</em>руу орох</a></p>
+    
+    <p><a href="https://munkhtulga0826.github.io/tuka-is-page/"><em>Миний хобби</em></a></p>
+    <p><a href="https://munkhtulga0826.github.io/page2/"><em>Гэр бүл</em></a></p>
+    <p><a href="https://munkhtulga0826.github.io/page3/"><em>Миний тухай</em></a></p>
+    <p><a href="https://munkhtulga0826.github.io/page4/"><em>Холбогдох мэдээлэл</em></a></p>
 </body>
 </html>
