@@ -1,5 +1,4 @@
 # munkhtulga0826.github.io
-<!DOCTYPE html>
 <html>
 <head>
     Welcone to Internet Technology Fundamentals
