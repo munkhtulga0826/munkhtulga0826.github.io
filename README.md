@@ -1,7 +1,7 @@
 # munkhtulga0826.github.io
 <html>
 <head>
-    Welcone to 
+    <strong>Welcone to 
 </head>
 <body>
     <h1>Миний тухай1</h1>    
