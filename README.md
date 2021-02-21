@@ -1,10 +1,10 @@
 # munkhtulga0826.github.io
 <html>
 <head>
-    Welcone to Internet Technology Fundamentals
+    Welcone to 
 </head>
 <body>
-    <h1>Welcome to Laboratory 1</h1>    
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore er dolore magna aliqua. Ut enim ad nisi minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderitin voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h1>Миний тухай1</h1>    
+    <p>Энэд миний хобби, гэр бүл болон миний тухай мэдэх болно.</p>
 </body>
 </html>
