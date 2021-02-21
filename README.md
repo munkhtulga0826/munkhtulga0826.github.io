@@ -4,7 +4,7 @@
     <meta cahrset="utf-8">
 </head>
 <body>
-    <h1><strong>Миний тухай</h1> 
+    <h1><strong>Миний тухай мэдэхийг хүссэн зүйлд дээрээ дарж орно уу.</h1> 
     
     <p><a href="https://munkhtulga0826.github.io/tuka-is-page/"><em>Миний хобби</em></a></p>
     <p><a href="https://munkhtulga0826.github.io/page2/"><em>Гэр бүл</em></a></p>
