@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcone to Internet Technology Fundamentals</title>
+    Welcone to Internet Technology Fundamentals
 </head>
 <body>
     <h1>Welcome to Laboratory 1</h1>    
