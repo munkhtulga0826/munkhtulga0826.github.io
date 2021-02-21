@@ -1,2 +1,9 @@
 # munkhtulga0826.github.io
-<h1><strong>Нүүр</h1>
+<html>
+<head>
+    <meta cahrset="utf-8">
+</head>
+<body>
+    <h1><strong>Миний тухай</h1> 
+</body>
+</html>
