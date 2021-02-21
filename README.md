@@ -1,10 +1,10 @@
 
 <html>
 <head>
-    <strong>Welcone to 
+    <h1><strong>Welcone to</h1> 
 </head>
 <body>
-    <h1>Нүүр</h1>    
+    <p>Нүүр</p>    
     <p>Энэд миний хобби, гэр бүл болон миний тухай мэдэх болно.</p>
 </body>
 </html>
