@@ -1,8 +1,6 @@
 
 <html>
 <head>
-    <h1><strong>Welcone to. </h1>
-
 </head>
 <body>
     <p>Нүүр</p>    
