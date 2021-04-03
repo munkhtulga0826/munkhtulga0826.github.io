@@ -6,7 +6,7 @@
 <header>
  <h1><b> Гайхамшигт газрууд.</b></h1>
  <p> Аялахад тохиромжтой 5 газар.<p>
- </header>
+</header>
  <nav>
    <a href="">Европ тивийн газрууд<a>  |
    <a href="">Ази тивийн газрууд<a>  |
@@ -24,7 +24,7 @@
  backround-color: Lightgray;
  }
   body {
-  background-image: url("https://www.google.com/imgres?imgurl=http%3A%2F%2Fmongolianconsulate.org%2FImages%2FBackground.jpg&imgrefurl=http%3A%2F%2Fmongolianconsulate.org%2FImages%2F&tbnid=WvGWeVHYvpsiyM&vet=12ahUKEwjvrMux8-HvAhUyx4sBHT6jAMYQMygGegUIARDFAQ..i&docid=VSwtM2IU4sL5yM&w=623&h=436&q=backround%20%D1%85%D1%8D%D1%8D%20%D1%83%D0%B3%D0%B0%D0%BB%D0%B7&ved=2ahUKEwjvrMux8-HvAhUyx4sBHT6jAMYQMygGegUIARDFAQ") ;
+  background-color: gray ;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
