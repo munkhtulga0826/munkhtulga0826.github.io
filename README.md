@@ -21,7 +21,7 @@
  margin left: 15px;
  float: right;
  font-style: italic;
- backround-color: Lightgray;
+ backround-color: silver;
  }
   body {
   background-color: azure ;
