@@ -9,8 +9,8 @@
    <a href="https://munkhtulga0826.github.io/-/">Европ тивийн газрууд<a>  |
    <a href="https://munkhtulga0826.github.io/Asia/">Ази тивийн газрууд<a>  |
    <a href="https://munkhtulga0826.github.io/America/">Америк тивийн газрууд<a>  |
-   <a href="https://munkhtulga0826.github.io/Africa/">Афирак тивийн газрууд<a>  |
-   <a href="https://munkhtulga0826.github.io/Australia/">Австрали тивийн газрууд<a>  
+   <a href="https://munkhtulga0826.github.io/africa/">Афирак тивийн газрууд<a>  |
+   <a href="https://munkhtulga0826.github.io/australia/">Австрали тивийн газрууд<a>  
    </nav>
  <a href="https://munkhtulga0826.github.io/"><h1> Аялахад тохиромжтой 5 газар.</h1><a>
  </header>  
