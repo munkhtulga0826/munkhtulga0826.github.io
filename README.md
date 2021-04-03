@@ -24,7 +24,7 @@
  backround-color: Lightgray;
  }
   body {
-  background-color: gray ;
+  background-color: azure ;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
