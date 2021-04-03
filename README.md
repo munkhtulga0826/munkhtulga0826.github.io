@@ -12,14 +12,14 @@
     <style type = "text/css">
      body{
      background-image: url(https://user-images.githubusercontent.com/79790495/112627089-1b443880-8e6c-11eb-940e-551f2ffbae92.png);
-     background-position: 100% center;
+     background-position: full;
      background-attachment: fixed;
      background-repeat: repeat;
      }
     </style>
   </head>
   <body>
-      <div class="page1"
+      <div class= "page1"
     <nav class="navbar">
       <div class="content">
         <ul class="items">
