@@ -12,7 +12,7 @@
    <a href="https://munkhtulga0826.github.io/Africa/">Афирак тивийн газрууд<a>  |
    <a href="https://munkhtulga0826.github.io/Australia/">Австрали тивийн газрууд<a>  
    </nav>
- <p><h1> Аялахад тохиромжтой 5 газар.</h1><p>
+ <a href="https://munkhtulga0826.github.io/"><h1> Аялахад тохиромжтой 5 газар.</h1><a>
  </header>  
   <style>
  aside {
