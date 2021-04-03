@@ -11,10 +11,10 @@
    <a href="">Америк тивийн газрууд<a>  |
    <a href="">Афирак тивийн газрууд<a>  |
    <a href="">Австрали тивийн газрууд<a>  
- </nav>
+   </nav>
  <p><h1> Аялахад тохиромжтой 5 газар.</h1><p>
-</header>  
- <style>
+ </header>  
+  <style>
  aside {
  width: 30%;
  padding-left: 15px;
