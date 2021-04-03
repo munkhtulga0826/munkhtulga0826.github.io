@@ -4,7 +4,8 @@
 <meta charset="UTF-8" />
 <link rel="stylesheet" href="style.css">
 <header>
- <h1><b> Гайхамшигт газрууд.</b></h1>
+ <h1><b><font-style: <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">"> Гайхамшигт газрууд.</b></h1>
  <nav>
    <a href="">Европ тивийн газрууд<a>  |
    <a href="">Ази тивийн газрууд<a>  |
@@ -31,7 +32,6 @@
   }
   huree{
   backround: white;
-   font-style: lobster;
   }
   huree > h2, p {
   margin: 4px
