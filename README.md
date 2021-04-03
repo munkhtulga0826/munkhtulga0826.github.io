@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -20,12 +19,12 @@
     </style>
   </head>
   <body>
-      <div class="page1">
-    <!-- Navigation end baigaa -->
+      <div class="page1"
     <nav class="navbar">
       <div class="content">
         <ul class="items">
-          <li class="menu-item">class="fa fa-bars" aria-hidden="true"></i>></a>
+          <li class="menu-item">
+            <a href="#" onclick="callMenu()"><i class="fa fa-bars" aria-hidden="true"></i></a>
           </li>
           <li><a href="#"><h1>SONS.MN</h1></a></li>
         </ul>
@@ -42,9 +41,9 @@
       </div>
       <section class="card-container">
           <div class="card">
-            < img src="http://www.sons.mn/files/news/TEG.jpg" width="120px" >
+            <img src="http://www.sons.mn/files/news/TEG.jpg" width="120px" >
             <div class="card-text">
-                < h2 class="card-header">
+                <h2 class="card-header">
                     ТЕГ: Хятад иргэд их хэмжээний бэлэн ба бэлэн бус валют хилээр нэвтрүүлсэн
                 </h2>
                 <div class="card-date">
